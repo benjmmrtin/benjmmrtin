@@ -5,10 +5,10 @@
 
 
 ## 🙋‍♂️ About Me
-OBJECTIVE: Full stack developer with 7 years of experience in designing, developing and maintaining scalable and responsive web applications using different tech stacks. I have strong knowledge of software development life cycles, architecting scalable platforms, object-oriented programming and agile methodologies., 
+OBJECTIVE: Full stack developer with 8 years of experience in designing, developing and maintaining scalable and responsive web applications using different tech stacks. I have strong knowledge of software development life cycles, architecting scalable platforms, object-oriented programming and agile methodologies., 
 PROFILE SUMMARY:
 
-* Over 7 years of professional experience in Information Technology with extensive experience in application development using back end technologies
+* Over 8 years of professional experience in Information Technology with extensive experience in application development using back end technologies
 * Over 6 years of experience in working in fast-paced, high tech environments with cross functional teams using agile methodology
 * Over 4 years of experience in building smart contract and dapps in EVM networks such as Ethereum, Polygon, Arbitrum, Avalanche, BSC and so on.
 * Through knowledge in developing cloud native application using micro service methodology in pivotal cloud foundry platform
