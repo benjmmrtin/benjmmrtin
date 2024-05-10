@@ -38,7 +38,7 @@ My skills
 * Mocha
 
 2) Back-end Development
-- Node.js, Express.js, NestJs, FastAPI, Laravel
+- Node.js, Express.js, NestJs, Python, Django, FastAPI, Laravel
 - Firebase, AWS, Heroku,
 
 3) Smart Contract Development
